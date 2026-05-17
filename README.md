@@ -17,4 +17,4 @@ Arduino alapú szimulált pulzusmonitor projekt LCD kijelzővel és LED-es vissz
 - Breadboard
 
 ## Tinkercad projekt
-https://www.tinkercad.com/things/2LmqSINzv5s-pulzusmonitor-led-visszajelzessel/editel?sharecode=8d6RBmn1cUrHf9ffVVj45YG_4lA1VewAktdIAlQS0nE&sharecode=zDm4uL5PRZV304dU9NAkfKhOAqPrmOFguKKsDsBPFos
+https://www.tinkercad.com/things/2LmqSINzv5s-pulzusmonitor-led-visszajelzessel/editel?returnTo=%2Fdashboard%2Fdesigns%2Fcircuits&sharecode=zDm4uL5PRZV304dU9NAkfKhOAqPrmOFguKKsDsBPFos
